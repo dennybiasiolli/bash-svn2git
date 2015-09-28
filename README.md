@@ -2,6 +2,7 @@
 Bash script to automatically convert repository from svn to git
 
 Edit configuration at top of svn2git.sh and then execute
+
     bash svn2git.sh
 
 ### Configuration section
